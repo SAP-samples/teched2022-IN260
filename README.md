@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-IN260)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-IN260)
+
 # IN260 - Achieve Exactly-Once Semantics in Apache Kafka Using SAP Integration Suite
 
 ## Description
